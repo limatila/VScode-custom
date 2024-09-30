@@ -1,0 +1,66 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSaveDelay": 100,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "redhat.telemetry.enabled": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "files.autoSave": "afterDelay",
+    "material-icon-theme.saturation": 1,
+    "explorer.confirmDelete": false,
+    "code-runner.clearPreviousOutput": true,
+    "database-client.highlightSQLBlock": true,
+    "workbench.editorAssociations": {
+        "*.png": "gryc.viewer"
+    },
+    "files.associations": {
+        "*.sql": "mysql"
+    },
+    "java.completion.favoriteStaticMembers": [
+        
+        "org.junit.Assert.*",
+        "org.junit.Assume.*",
+        "org.junit.jupiter.api.Assertions.*",
+        "org.junit.jupiter.api.Assumptions.*",
+        "org.junit.jupiter.api.DynamicContainer.*",
+        "org.junit.jupiter.api.DynamicTest.*",
+        "org.mockito.Mockito.*",
+        "org.mockito.ArgumentMatchers.*",
+        "org.mockito.Answers.*"
+    ],
+    "java.trace.server": "verbose",
+    "githubPullRequests.pullBranch": "never",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.enableSmartCommit": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.ai.experimental.provider": "openai",
+    "gitlens.ai.experimental.openai.model": "gpt-4",
+    "explorer.confirmDragAndDrop": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.colorTheme": "SynthWave '84",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.maxColumn": 100,
+    "editor.minimap.sectionHeaderFontSize": 8,
+    "editor.minimap.autohide": true,
+    "editor.minimap.showSlider": "always",
+    "msg.dbEditor.useMinimap": true,
+    "editor.minimap.sectionHeaderLetterSpacing": 4,
+    "workbench.activityBar.location": "top",
+
+    "vscode_custom_css.imports": [
+        "file:///#your path here/VScode-custom/custom-vscode.css",
+        "file:///#your path here/VScode-custom/vscode-script.js"
+    ],
+    "editor.stickyScroll.scrollWithEditor": false,
+    "window.menuBarVisibility": "compact",
+}

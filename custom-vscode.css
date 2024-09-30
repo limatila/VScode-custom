@@ -1,5 +1,4 @@
 .tab{
-    padding-left: 5px;
     padding-right: 5px;
     transition: box-shadow ease-out 0.5s;
 }
@@ -32,12 +31,13 @@ ul.actions-container li.action-item{
 }
 
 div.monaco-sash.vertical{
-    box-shadow: 2px 35px 20px rgba(0, 0, 0, .62);
+    top: 35px;
+    box-shadow: 2px 0px 20px rgba(0, 0, 0, .62);
     transition: box-shadow ease-in 0.13s;
 }
 
 div.monaco-sash.vertical:hover{
-    box-shadow: 5px 35px 8px rgba(0, 0, 0, .88);
+    box-shadow: 5px 0px 14px rgba(0, 0, 0, .88);
 }
 
 select.monaco-select-box.monaco-select-box-dropdown-padding{
